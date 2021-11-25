@@ -1,0 +1,13 @@
+.cart{
+    border: 1px solid lightgray;
+    width: 350px;
+    margin: 5px;
+}
+.order-btn{
+    background-color: goldenrod;
+    border: 1px solid gray;
+    border-radius: 3px;
+    padding: 5px;
+   
+
+}
