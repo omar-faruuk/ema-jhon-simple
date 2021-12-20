@@ -6,7 +6,7 @@ import Review from './components/Review/Review';
 import Inventory from './components/Inventory/Inventory';
 import  NotFound  from './components/NotFound/NotFound.jsx';
 
-import {BrowserRouter as Router,Switch,Route,Link } from "react-router-dom";
+import {BrowserRouter as Router,Switch,Route, } from "react-router-dom";
 import ProductDetail from './components/ProductDetail/ProductDetail';
 
 
